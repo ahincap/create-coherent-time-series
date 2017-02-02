@@ -1,3 +1,6 @@
+%Create time series
+%Developed by Jan Kujala and Joachim Gross
+
 function [tcn,tcn2]=create_2timeseries(trand,base_freq,ntim)
 
 iflaw=zeros(1,ntim);
